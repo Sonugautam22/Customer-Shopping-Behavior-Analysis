@@ -62,20 +62,28 @@ An interactive dashboard was created to visualize:
 
 ---
 
-## 🔍 Key Insights
-- Discounts significantly influence purchase decisions  
-- Loyal customers contribute the highest revenue  
-- Subscription users tend to spend more  
-- Certain products are seasonal in demand  
-
----
-
 ## 🧰 Tools & Technologies Used
 - Python (Pandas, NumPy)  
 - SQL (PostgreSQL)  
 - Power BI  
-- Microsoft Excel  
+- Microsoft Excel   
 
 ---
 
-## 📂 Project Structure
+## 📚 References
+- Kaggle Dataset  
+- Python Pandas Documentation  
+- PostgreSQL Documentation  
+- Power BI Documentation  
+
+---
+
+## 👤 Author
+**Sonu Kumar**  
+📧 Email: insightbysonu@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/sonu-kumar-318452291  
+
+---
+
+## ⭐ If you like this project
+Give it a star ⭐ on GitHub!
